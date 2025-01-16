@@ -2,7 +2,7 @@
 
 ## Overview
 
-This project analyzes survey data on masculinity, visualizes relationships between responses, and uses KMeans clustering to identify patterns in the data.
+This project analyzes survey data on masculinity, visualizes relationships between responses, and uses KMeans clustering to identify patterns in the data. This is guided project according to 'building a machine learning model' course on Codacademy.
 
 ### Key Steps:
 1. **Data Exploration:** Initial analysis of the dataset to understand its structure and key features.
